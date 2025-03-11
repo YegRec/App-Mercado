@@ -1,0 +1,17 @@
+# Ignorar archivos y carpetas de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorar archivos de compilación
+bin/
+obj/
+AppMercado.csproj.user
+
+# Ignorar archivos de configuración y cache de MAUI
+**/*.apk
+**/*.aab
+**/*.app
+**/*.ipa
