@@ -15,7 +15,7 @@
                 Placeholder="Escribe los productos y precios aquí (ej: Manzana 200.00)"
                 AutoSize="TextChanges"
                 TextChanged="OnTextChanged"
-                HeightRequest="300"
+                HeightRequest="700"
                 Margin="0,10" />
 
         <!-- Mostrar el total -->
