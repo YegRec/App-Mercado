@@ -6,7 +6,8 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            // Verifica que MainPage esté asignada correctamente
+            MainPage = new MainPage();
         }
     }
 }
